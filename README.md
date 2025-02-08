@@ -1,8 +1,11 @@
 # For-A.I.-Developers
+---
 This repository stores materials for AI-related courses at IT Betyar School.
 
+https://itbetyar.hu
+
 <div>
- <p>Coursesk</p>
+ <p>Courses</p>
   <a href="https://itbetyar.hu"><img alt="IT Betyár honlap" src="https://itbetyar.hu/dload_itb/colab_gomb_itb.webp" height="30px"></a>
   <a href="https://itbetyar.hu/uzleti-a-i-automatizacio-workshop/"><img alt="IT Betyár honlap" src="https://itbetyar.hu/dload_itb/colab_gomb_aiaut.webp" height="30px"></a>
   <a href="https://itbetyar.hu/mesterseges-intelligencia-fejleszto-tanfolyam/"><img alt="AI Developer tanfolyam" src="https://itbetyar.hu/dload_itb/colab_gomb_aidev.webp" height="30px"></a>
