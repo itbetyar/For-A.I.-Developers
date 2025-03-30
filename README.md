@@ -4,6 +4,10 @@ This repository stores materials for AI-related courses at IT Betyar School.
 
 https://itbetyar.hu
 
+## Projects so far:
+
+### - 🐕 🚢 🐈 🐸 🛩️  Resnet50 & Cifar10 pre-trained project | [Link](https://github.com/itbetyar/For-A.I.-Developers/tree/main/resnet50-cifar10-pretrained)
+
 <div>
  <p>Courses</p>
   <a href="https://itbetyar.hu"><img alt="IT Betyár honlap" src="https://itbetyar.hu/dload_itb/colab_gomb_itb.webp" height="30px"></a>
